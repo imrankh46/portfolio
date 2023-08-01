@@ -1,0 +1,11 @@
+sklearn
+tensorflow 
+tensorflow-datasets 
+gradio
+transformers
+datasets
+peft
+trl
+lora
+torch
+
