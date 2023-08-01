@@ -25,7 +25,7 @@ Link to Code
 Supervised Machine Learning
 Description: A collection of supervised machine learning projects, including classification and regression tasks.
 -Notebooks: supervised_machine_learning.ipynb
--[Link to Code](/https://github.com/imrankh46/portfolio/blob/main/1%20supervised_machine_learning.ipynb)
+-[Link to Code](https://github.com/imrankh46/portfolio/blob/main/1%20supervised_machine_learning.ipynb)
 
 # 2. Unsupervised Learning
 Unsupervised Learning
