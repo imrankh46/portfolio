@@ -78,12 +78,17 @@ Unsupervised Learning
 -[Link to Code](https://github.com/imrankh46/portfolio/blob/main/9%20pashtu_poerty_generation_inference.ipynb)
 
 # Certificates
-[Getting Started with AWS Machine Learning](https://coursera.org/share/b0bfb57f1cefb120c099aecc81f471a8)
-[Launching into Machine Learning](https://coursera.org/share/eee2354ac0a1001bec631437301c4259)
-[Linear Algebra for Machine Learning and Data Science](https://coursera.org/share/a7e147b50d739bac60247a711ec3b6c7)
-[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://coursera.org/share/9fa2226a50c833ed1f7299ed41bc5c01)
-[Python Essentials for MLOps](https://coursera.org/share/4fe13c0aa2cef5ff0feb18822db8ce0c)
-[TensorFlow on Google Cloud](https://coursera.org/share/c5745b79d4c3c089074f4898eef1de61)
+-[Getting Started with AWS Machine Learning](https://coursera.org/share/b0bfb57f1cefb120c099aecc81f471a8)
+
+-[Launching into Machine Learning](https://coursera.org/share/eee2354ac0a1001bec631437301c4259)
+
+-[Linear Algebra for Machine Learning and Data Science](https://coursera.org/share/a7e147b50d739bac60247a711ec3b6c7)
+
+-[Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://coursera.org/share/9fa2226a50c833ed1f7299ed41bc5c01)
+
+-[Python Essentials for MLOps](https://coursera.org/share/4fe13c0aa2cef5ff0feb18822db8ce0c)
+
+-[TensorFlow on Google Cloud](https://coursera.org/share/c5745b79d4c3c089074f4898eef1de61)
 
 
 # Installation
